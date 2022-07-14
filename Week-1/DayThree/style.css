@@ -1,0 +1,21 @@
+body{
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    color:blue;
+}
+#name{
+    color: yellow;
+}
+@media (min-width: 568px){
+    #name{
+        color: blue;
+    }
+}
+.temp{
+    height: 200px;
+    background-color: aliceblue;
+    margin: 50px;
+}
