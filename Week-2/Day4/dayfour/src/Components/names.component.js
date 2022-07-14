@@ -16,10 +16,10 @@ const Names = () => {
 
              
           
-    <li class="list-group-item">janhavi</li
+    <li class="list-group-item">janhavi</li>
 
 
-             
+    <li class="list-group-item">Pratibha</li>
 
 
              <li class="list-group-item">Janhavi</li>
